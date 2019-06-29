@@ -11,6 +11,7 @@ public class Solution {
 //This contains two solutions that work almost identically. 
 //Initially the first was created, but HackerRank was unable to compile and run it. The assumption was made that too much memory was in use, and a more memory efficient method was written.
 //It ended up being a weird thing with HackerRank, as it now accepts and gives full points to both implementations
+//I am especially proud of this as it is the first HackerRank hard problem to which the solution is entirely my own
     static long countInversions(int[] arr) {
         //time to implement a mergesort my dudes
 
